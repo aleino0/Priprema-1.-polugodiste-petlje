@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\bin\Debug\Priprema_petlje1.exe.config
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\bin\Debug\Priprema_petlje1.exe
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\bin\Debug\Priprema_petlje1.pdb
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\obj\Debug\Priprema_petlje1.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\obj\Debug\Priprema_petlje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\obj\Debug\Priprema_petlje1.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\obj\Debug\Priprema_petlje1.exe
+C:\Users\linar\Documents\programiranje\Priprema_petlje1\Priprema_petlje1\obj\Debug\Priprema_petlje1.pdb
